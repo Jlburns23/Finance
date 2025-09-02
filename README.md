@@ -9,7 +9,7 @@ This repository showcases finance and investment-focused data projects using Pyt
 ### 1. Portfolio Performance Dashboard ✅ Completed  
 - Built an interactive dashboard to track **returns, volatility, Sharpe ratio, and sector allocation**.  
 - Tools: Python (pandas, Plotly), Tableau Public  
-- Deliverable: [portfolio_dashboard.ipynb](Project1_PortfolioDashboard/portfolio_dashboard.ipynb)  
+- Deliverable: [portfolio_dashboard.ipynb]([Project1_PortfolioDashboard/portfolio_dashboard.ipynb](https://github.com/Jlburns23/Finance/blob/main/Portfolio_performance_2_0.ipynb))  
 - ![Dashboard Screenshot](Project1_PortfolioDashboard/dashboard.png)  
 
 ---
